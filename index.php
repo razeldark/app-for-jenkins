@@ -30,11 +30,8 @@ else
 
 
     <section class="instructions">
-        <h2>Slow picture/h2>
-        <ul>
-            <h2>Some slow picture</h2>
+        <h2>Slow picture</h2>
             <img src="img.png">
-        </ul>
     </section>
     <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
 </body>
