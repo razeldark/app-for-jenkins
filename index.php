@@ -27,9 +27,14 @@ else
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
     </section>
-    <section class="Pic">
-        <h2>Some slow picture</h2>
-        <img src="img.png">
+
+
+    <section class="instructions">
+        <h2>Slow picture/h2>
+        <ul>
+            <h2>Some slow picture</h2>
+            <img src="img.png">
+        </ul>
     </section>
     <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
 </body>
